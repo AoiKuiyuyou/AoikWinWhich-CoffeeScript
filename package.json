@@ -1,0 +1,13 @@
+{
+  "name": "AoikWinWhich-CoffeeScript",
+  "private": true,
+  "version": "0.1.0",
+  "repository": "https://github.com/AoiKuiyuyou/AoikWinWhich-CoffeeScript",
+  "license": "MIT",
+  "dependencies": {
+    "underscore": "latest"
+  },
+  "scripts": {
+    "start": "coffee src/aoikwinwhich"
+  }
+}

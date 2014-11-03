@@ -1,0 +1,6 @@
+*.log
+/.*
+!/.gitignore
+/EclipseProject
+/nbproject
+/node_modules
